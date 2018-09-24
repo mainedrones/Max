@@ -22,7 +22,7 @@ Max is designed to allow the community access to a well designed X Class frame w
 
 ![](https://raw.githubusercontent.com/Mode-2/Max/images/Max%20-%20Technical%20Sheet.jpg)
 
-![](https://raw.githubusercontent.com/Mode-2/Max/images/Max%20-%20Hardware%20Guide%201.jpg)
+![](https://raw.githubusercontent.com/Mode-2/Max/images/Max%20-%20Hardware%20Guide.jpg)
 
 
 ## Branding and Naming Requirements ##
