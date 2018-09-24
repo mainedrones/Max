@@ -19,8 +19,11 @@ Max is designed to allow the community access to a well designed X Class frame w
 - Standoffs 40mm
 
 
-![](https://camo.githubusercontent.com/3b2b36f25628893ada6198e52d25e821332e1a4a/68747470733a2f2f692e696d6775722e636f6d2f7075726f4532442e6a7067)
+![](https://raw.githubusercontent.com/Mode-2/Max/images/Max%20-%20Technical%20Sheet.jpg)
 
+![](https://raw.githubusercontent.com/Mode-2/Max/images/Max%20-%20Hardware%20Guide%201.jpg)
+
+![](https://raw.githubusercontent.com/Mode-2/Max/images/Max%20-%20Hardware%20Guide%202.jpg)
 
 ## Branding and Naming Requirements ##
 
