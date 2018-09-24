@@ -34,7 +34,7 @@ The name of the frame is called Mode 2 Trimaxion, or "Max" for short. If you int
 
 
 ## Font ##
-[CGF Locust Resistance by Chris Garret](thttps://www.dafont.com/cgf-locust-resistance.font)
+[CGF Locust Resistance by Chris Garret](https://www.dafont.com/cgf-locust-resistance.font)
 
 ***100% Free for Commercial Use.***
 
